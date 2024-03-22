@@ -10,7 +10,7 @@ This project transforms your Spotify playlists into a fun guessing game by visua
 
 The game's goal is to guess which song title the generated image represents, offering a unique way to interact with your favorite music.
 
-How to use
+## How to Use
 Step 1: Extract Song Titles
 
     Open get_songs.ipynb in Jupyter Notebook.
