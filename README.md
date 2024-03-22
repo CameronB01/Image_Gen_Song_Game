@@ -1,6 +1,6 @@
-Guess the Song from the Image
+# Guess the Song from the Image
 
-Overview
+## Overview
 
 This project transforms your Spotify playlists into a fun guessing game by visualizing song titles using AI-generated images. It consists of three main parts:
 
