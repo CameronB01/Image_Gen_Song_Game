@@ -30,4 +30,4 @@ Step 3: View the Image
     Open open_image.ipynb to display the latest generated image on your screen.
     No need to manually open the file; this notebook does it for you.
 
-UPDATE: I've included an additional file named 'image_gen_compact' which combines the initial two steps for convenience.
+### UPDATE: I've included an additional file named 'image_gen_compact' which combines the initial two steps for convenience.
